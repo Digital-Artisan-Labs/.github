@@ -21,7 +21,7 @@ Digital Artisan Labs develops institutional-grade tools for the modern AI enterp
 
 | Product | Domain | Description |
 | :--- | :--- | :--- |
-| **[QueryInsight](https://govardhan.dev/queryinsight)** | `Data` | Automated NL-to-SQL engine for production-ready relational statements. |
+| **[QueryInsight](queryinsight.streamlit.app/)** | `Data` | Automated NL-to-SQL engine for production-ready relational statements. |
 | **[Observo](https://govardhan.dev/observo)** | `Observability` | OTel-native platform for real-time LLM cost and hallucination tracking. |
 | **[Chiral](https://govardhan.dev/chiral)** | `Ethics` | Research-driven pipeline mitigating anatomical bias in diffusion models. |
 
