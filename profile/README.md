@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 Digital Artisan Labs
+# Digital Artisan Labs
 **Architecting Intelligence. Engineering Rigor.**
 
 [![Website](https://img.shields.io/badge/Portfolio-govardhan.dev-white?style=for-the-badge&logo=google-chrome&logoColor=black)](https://govardhan.dev)
