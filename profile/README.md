@@ -3,9 +3,9 @@
 # Digital Artisan Labs
 **Architecting Intelligence. Engineering Rigor.**
 
-[![Website](https://img.shields.io/badge/Portfolio-panditaman.dev-white?style=for-the-badge&logo=google-chrome&logoColor=black)](https://govardhan.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amanpandit)
-[![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x)](https://x.com/your_handle)
+[![Website](https://img.shields.io/badge/Portfolio-panditaman.dev-white?style=for-the-badge&logo=google-chrome&logoColor=black)](https://panditaman.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/panditaman/)
+[![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x)](https://x.com/panditaman2029)
 
 <p align="center">
   <i>Bridging the gap between raw AI research and enterprise reliability.</i>
